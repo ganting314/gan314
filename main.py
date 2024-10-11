@@ -1,5 +1,5 @@
 
-current_p = "A"
+current_p = "B"
 
 def func_A():
     print("A员工创建函数1")
